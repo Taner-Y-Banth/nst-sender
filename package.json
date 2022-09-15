@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "nstrumenta": "^3.0.22"
+  },
+  "scripts": {
+    "start": "node index --wsUrl=wss://detect-rh16ue6niy8ws7xd9ypp.vm.nstrumenta.com"
+  }
+}
